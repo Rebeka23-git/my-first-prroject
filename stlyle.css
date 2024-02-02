@@ -6,3 +6,8 @@ p {
   text-align: center;
   color: blue;
 }
+span {
+  display: block;
+  text-align: center;
+  color: blue;
+}
